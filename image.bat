@@ -1,7 +1,7 @@
 @echo off
 
 REM Go to your project folder
-cd /d "C:\Users\YourName\Projects\MyFolder"
+cd /d "D:\LY\SEM 2\CF\New folder"
 
 REM Initialize git (only first time, harmless if already done)
 git init
