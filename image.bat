@@ -7,7 +7,7 @@ REM Initialize git (only first time, harmless if already done)
 git init
 
 REM Add remote repo (only first time)
-git remote add origin https://github.com/KaustubhJaitapkar/CF-Assignment.git
+git remote add origin https://github.com/KaustubhJaitapkar/CF-upload-files.git
 
 REM Add all files
 git add .
